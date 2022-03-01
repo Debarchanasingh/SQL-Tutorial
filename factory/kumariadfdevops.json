@@ -1,0 +1,9 @@
+{
+	"name": "kumariadfdevops",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa5dbe84-3619-4121-a430-b0bcff1a9148",
+		"tenantId": "4e513021-97a0-4de2-a821-ade897316bc5"
+	}
+}
