@@ -1,0 +1,9 @@
+{
+	"name": "adfbyexample-kumari",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9dcce92-2f25-4992-91f5-abdad9f1e121",
+		"tenantId": "4e513021-97a0-4de2-a821-ade897316bc5"
+	}
+}
