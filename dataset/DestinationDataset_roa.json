@@ -1,0 +1,17 @@
+{
+	"name": "DestinationDataset_roa",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "blob_storage_source_ls",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "sampledata"
+			}
+		}
+	}
+}
